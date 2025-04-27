@@ -142,7 +142,7 @@ export const RIGHT_CONFETTI = {
   origin: { x: 1, y: 1 },
 };
 
-export const user = { name: 'Adrian'};
+export const user = { name: 'Mohamadi'};
 export const dashboardStats = {
   totalUsers: 12450,
   usersJoined: { currentMonth: 218, lastMonth: 176 },
